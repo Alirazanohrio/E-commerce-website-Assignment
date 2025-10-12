@@ -1,19 +1,75 @@
 body {
-    background-color:yellow
+    background-color:black
 }
 
 h1{
     color: blue ;
 }
 p{
-    color: black;
+    color: white;
 }
 h1{
     text-align: center;
     front-size: 50px:
 }
+form{
+    text-emphasis-color: white;
+    text-align: center;
+    text-box: color: white;
+    front-size: 20px;
+    margin: auto;
+    width: 50%;
+    border: 3px solid blue;
+    padding: 10px;
+    background-color: black;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
 
-
-
-
-
+}
+table{
+    margin: auto;
+    width: 50%;
+    border: 3px solid blue;
+    padding: 10px;
+    background-color: black;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+video{
+    display: block;
+    margin: 0 auto;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+}
